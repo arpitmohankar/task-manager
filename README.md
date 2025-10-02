@@ -2,6 +2,15 @@
 
 A simple task management application built with MERN stack for job assessment.
 
+<img width="1848" height="899" alt="Screenshot 2025-10-02 143035" src="https://github.com/user-attachments/assets/ff8d880d-e18d-4832-bebd-54eaa21eae3f" />
+
+<img width="1835" height="904" alt="Screenshot 2025-10-02 143016" src="https://github.com/user-attachments/assets/e71ed888-4464-4c1d-b536-950024c4ff67" />
+
+<img width="1816" height="904" alt="Screenshot 2025-10-02 142946" src="https://github.com/user-attachments/assets/c5e7de2a-4b7c-4f50-a7cb-ce8fac1de3e5" />
+
+<img width="1916" height="869" alt="Screenshot 2025-10-02 142932" src="https://github.com/user-attachments/assets/271a2e23-87d1-4257-ae9b-7feabcd7a8a5" />
+
+
 ## Features
 
 - **Task Creation** - Create tasks with title, description, due date and assign to priority lists
